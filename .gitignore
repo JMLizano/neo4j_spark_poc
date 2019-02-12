@@ -1,0 +1,5 @@
+# IDE & compiler
+.idea
+.metals
+target
+project/target
